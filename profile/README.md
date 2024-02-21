@@ -7,10 +7,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-CE00FF)](https://www.instagram.com/perfectcoding.id/)
 [![Tiktok](https://img.shields.io/badge/TikTok-E62254)](https://www.tiktok.com/@perfectcoding.id)
 [![Website](https://img.shields.io/badge/Website-F3CE18)](https://perfectcoding.id/)
-[![Respon Cepat](https://img.shields.io/badge/ResponCepat-00BB34)](https://perfectcoding.id/)
-
-
-
+[![Konsultasi](https://img.shields.io/badge/Konsultasi-00BB34)](https://api.whatsapp.com/send/?phone=6287765299386&text=Halo+Perfect+Coding%2C+Saya+(Nama)+dari+(Kota)+mau+konsultasi...)
+[![Maintenance](https://img.shields.io/badge/Maintenance-BB8600)](https://api.whatsapp.com/send/?phone=6287765299386&text=Halo+Perfect+Coding%2C+Saya+(Nama)+dari+(Kota)+mau+Maintenance...)
+[![Order](https://img.shields.io/badge/Order-A6BB00)](https://api.whatsapp.com/send/?phone=6287765299386&text=Halo+Perfect+Coding%2C+Saya+(Nama)+dari+(Kota)+mau+bikin...)
+[![PaymentGateway](https://img.shields.io/badge/PaymentGateway-00B5BB)](https://api.whatsapp.com/send/?phone=6287765299386&text=Halo+Perfect+Coding%2C+Saya+(Nama)+dari+(Kota)+mau+integrasi-payment-gateway...)
 <!--
 
 **Here are some ideas to get you started:**
