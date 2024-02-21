@@ -1,41 +1,17 @@
-## JASA PEMBUATAN WEBSITE DAN INTEGRASI PAYTMENT GATEWAY NO. 1 DI SURAKARTA
-✨SOLUSI TRANSFORMASI DIGITAL BISNISMU✨
+<p align="center">✨SOLUSI TRANSFORMASI DIGITAL BISNISMU✨</p>
+
+
+## PEMBUATAN WEBSITE DAN INTEGRASI PAYMENT GATEWAY NO. 1 DI SURAKARTA
+  
+[![Facebook](https://img.shields.io/badge/Facebook-1A4789)](https://facebook.com/perfectcoding.id/)
+[![Instagram](https://img.shields.io/badge/Instagram-CE00FF)](https://www.instagram.com/perfectcoding.id/)
+[![Tiktok](https://img.shields.io/badge/TikTok-E62254)](https://www.tiktok.com/@perfectcoding.id)
+[![Website](https://img.shields.io/badge/Website-F3CE18)](https://perfectcoding.id/)
+[![Respon Cepat](https://img.shields.io/badge/ResponCepat-00BB34)](https://perfectcoding.id/)
+
+
+
 <!--
-# Brand Jasa Pembuatan Website dan Integrasi Payment Gateway No. 1 Di Surakarta
-
-Selamat datang di halaman GitHub kami! Kami adalah penyedia layanan pembuatan website dan integrasi payment gateway terkemuka di Surakarta.
-
-## Tentang Kami
-
-Kami adalah tim profesional yang berkomitmen untuk memberikan solusi digital terbaik kepada bisnis Anda. Dengan pengalaman bertahun-tahun di industri ini, kami siap membantu Anda mencapai tujuan bisnis Anda.
-
-## Layanan Kami
-
-- Pembuatan Website
-- Integrasi Payment Gateway
-- Konsultasi Digital
-
-## Kenapa Memilih Kami?
-
-1. Pengalaman yang Luar Biasa
-2. Tim Profesional dan Berdedikasi
-3. Solusi Kustom untuk Setiap Kebutuhan Bisnis
-4. Dukungan Pelanggan 24/7
-
-## Hubungi Kami
-
-Jangan ragu untuk menghubungi kami untuk konsultasi lebih lanjut atau memesan layanan kami.
-
-[Hubungi Kami](mailto:contohemail@gmail.com)
-
-## Ikuti Kami
-
-Jangan lupa untuk mengikuti kami di media sosial untuk mendapatkan pembaruan terbaru dan penawaran spesial.
-
-[![Twitter](https://img.shields.io/twitter/follow/contohtwitter?style=social)](https://twitter.com/contohtwitter)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/contohinstagram/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/contohlinkedin/)
-
 
 **Here are some ideas to get you started:**
 
